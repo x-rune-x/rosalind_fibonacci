@@ -1,0 +1,6 @@
+/.vs
+/bin
+/fibonacci
+/obj
+fibonacci.sln
+fibonacci.csproj
